@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6912aa177f0da922a6c129a6f3ab715c",
+    "revision": "f77328dbbeca7af25a43f9177f0d55c0",
     "url": "/math-tools/index.html"
   },
   {
-    "revision": "4a9dccad3a150a82b6fb",
+    "revision": "61ae27cc3549378b07a4",
     "url": "/math-tools/static/css/main.20b4d664.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/math-tools/static/js/2.86a8ce48.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4a9dccad3a150a82b6fb",
-    "url": "/math-tools/static/js/main.cf17371f.chunk.js"
+    "revision": "61ae27cc3549378b07a4",
+    "url": "/math-tools/static/js/main.b9cbdfee.chunk.js"
   },
   {
     "revision": "f5e23333c59d1b0674e0",

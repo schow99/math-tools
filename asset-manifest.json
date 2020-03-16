@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/math-tools/static/css/main.20b4d664.chunk.css",
-    "main.js": "/math-tools/static/js/main.cf17371f.chunk.js",
-    "main.js.map": "/math-tools/static/js/main.cf17371f.chunk.js.map",
+    "main.js": "/math-tools/static/js/main.b9cbdfee.chunk.js",
+    "main.js.map": "/math-tools/static/js/main.b9cbdfee.chunk.js.map",
     "runtime-main.js": "/math-tools/static/js/runtime-main.baf11536.js",
     "runtime-main.js.map": "/math-tools/static/js/runtime-main.baf11536.js.map",
     "static/js/2.86a8ce48.chunk.js": "/math-tools/static/js/2.86a8ce48.chunk.js",
     "static/js/2.86a8ce48.chunk.js.map": "/math-tools/static/js/2.86a8ce48.chunk.js.map",
     "index.html": "/math-tools/index.html",
-    "precache-manifest.25c7c832c74dd397c00867916718fd36.js": "/math-tools/precache-manifest.25c7c832c74dd397c00867916718fd36.js",
+    "precache-manifest.db50063cc63e4dc384ae7a1282026ef7.js": "/math-tools/precache-manifest.db50063cc63e4dc384ae7a1282026ef7.js",
     "service-worker.js": "/math-tools/service-worker.js",
     "static/css/main.20b4d664.chunk.css.map": "/math-tools/static/css/main.20b4d664.chunk.css.map",
     "static/js/2.86a8ce48.chunk.js.LICENSE.txt": "/math-tools/static/js/2.86a8ce48.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.baf11536.js",
     "static/js/2.86a8ce48.chunk.js",
     "static/css/main.20b4d664.chunk.css",
-    "static/js/main.cf17371f.chunk.js"
+    "static/js/main.b9cbdfee.chunk.js"
   ]
 }
